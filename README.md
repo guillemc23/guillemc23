@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing autonomous vehicles for topographic applications
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on NativeScript probably 
-- 🤔 I’m looking for help with entrepreneurship
+- 🤔 I’m looking for help with digital marketing
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: @guillemc23
 - ⚡ Fun fact: It's illegal to own **just** one guinea pig in Switzerland. It's considered animal abuse because they're social beings and get lonely.
